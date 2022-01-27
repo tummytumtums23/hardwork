@@ -22,7 +22,7 @@
     "@angular/router": "~9.1.0",
     "core-js": "^2.4.1",
     "rxjs": "^6.5.5",
-    "three": "^0.82.1",
+    "three": "^0.137.0",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.6.23"
   },
